@@ -1,0 +1,33 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Apis",
+  "main": "server.js",
+  "type": "commonjs", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShrutikaSurve/BackendApis.git"
+  },
+  "keywords": [
+    "Api12345"
+  ],
+  "author": "Shrutika Surve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShrutikaSurve/BackendApis/issues"
+  },
+  "homepage": "https://github.com/ShrutikaSurve/BackendApis#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
